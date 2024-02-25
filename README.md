@@ -1,5 +1,13 @@
 # Neural-Machine-Translation
 
+## Overview
+This project implements a Neural Machine Translation (NMT) system enhanced with an attention mechanism, which improves translation quality by allowing the model to automatically focus on relevant parts of the input sentence during the translation process.
+
+![Alt text](https://github.com/Maedeabm/Neural-Machine-Translation/blob/main/graphs/diagram.png?raw=true "Diagram")
+
+![Alt text](https://github.com/Maedeabm/Neural-Machine-Translation/blob/main/graphs/mechanism.png?raw=true "Diagram")
+
+
 ## Project Structure
 
 This Neural Machine Translation (NMT) project with attention is organized into several files, each serving a specific purpose:
